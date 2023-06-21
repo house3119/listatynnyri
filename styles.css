@@ -1,0 +1,126 @@
+.content {
+    margin-top: 20px;
+    margin-bottom: 100px;
+
+}
+
+.header {
+    background-color: white;
+    height: 300px;
+    padding: 35px;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/1001/474/370/warhammer-40-000-blood-angels-hd-wallpaper-preview.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.footer {
+    background-color: white;
+    height: 40px;
+    color: black;
+    padding: 15px;
+    margin-bottom: 10px;
+    font-size: 0.8rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.armies {
+    font-size: 3rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#BA {
+    background-color: white;
+    border: none;
+}
+
+.lore {
+    margin-top: 20px;
+    margin-left: 8%;
+    margin-right: 8%;
+
+}
+
+.avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+body{
+    text-align: center;
+}
+
+#trivia {
+    background-color: #6C757D;
+    color: #FFFFFF;
+    border: none;
+    height: 37px;
+    width: 120px;
+    border-radius: 7px;
+    font-size: 1.1rem;
+}
+
+#trivia:active {
+
+}
+
+.question {
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+
+.q1button {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 7px;
+    background-color: white;
+    height: 37px;
+    width: 100px;
+    font-size: 0.8rem;
+    font-weight: bold;
+
+}
+
+.q2button {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 7px;
+    background-color: white;
+    height: 37px;
+    width: 100px;
+    font-size: 0.8rem;
+    font-weight: bold;
+
+}
+
+.q3button {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 7px;
+    background-color: white;
+    height: 37px;
+    width: 100px;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+#Check {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 7px;
+    background-color: white;
+    height: 37px;
+    width: 100px;
+}
+
+#Check:active {
+    background-color: #D3D3D3;
+}
