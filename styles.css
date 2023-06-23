@@ -38,7 +38,7 @@ h1 {
     border: none;
 }
 
-#BA:hover {
+#BA:active {
     background-color: #b2b9c0;
     border-radius: 7px;
     color: #b2b9c0;
