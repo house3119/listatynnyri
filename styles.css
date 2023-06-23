@@ -38,6 +38,11 @@ h1 {
     border: none;
 }
 
+#BA:hover {
+    background-color: #b2b9c0;
+    border-radius: 7px;
+}
+
 .lore {
     margin-top: 20px;
     margin-left: 8%;
